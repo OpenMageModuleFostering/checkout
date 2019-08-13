@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Checkout",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "1-Click Mobile Web Payments for mobile enabled mCommerce.
+Patented QR Payments for eCommerce checkout.",
+    "authors": [
+    {
+        "name": "Sekur.me",
+        "email": "jack@sekur.me"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
